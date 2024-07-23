@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaryan2720
 - 👀 I’m interested in python , react, automation , comuunication
-- 🌱 I’m currently learning full stack , a first year CSE student
+- 🌱 I’m currently learning full stack , a second year CSE student
 - 💞️ I’m looking to collaborate on coding projects that will enhance my resume 
 - 📫 How to reach me mail me - aryan1234choudhari1983@gmail.com 
 
