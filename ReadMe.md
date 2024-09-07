@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Cybersecurity , Python <br>👯 I’m looking to collaborate on LLMs and AGI<br>🤝 I’m looking for help with Open Source Contribution <br>🌱 I’m currently learning DSA <br>💬 Ask me about<br>⚡ Fun fact
+ 👋 Hi, I’m @aaryan2720
+- 👀 I’m interested in python , automation , comuunication, LLMs , AGI
+- 🌱 I’m currently doing DSA, a second year CSE student
+- 💞️ I’m looking to collaborate on coding projects that will enhance my resume 
+- 📫 How to reach me mail me - aryan1234choudhari1983@gmail.com 
+
 
 
 ## 🌐 Socials:
