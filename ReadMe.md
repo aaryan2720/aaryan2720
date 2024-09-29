@@ -1,7 +1,7 @@
 # 💫 About Me:
  👋 Hi, I’m @aaryan2720
 - 👀 I’m interested in Python,Automation,Communication,LLMs,AGI,Cybersecurity
-- 🌱 I’m currently doing DSA,A second year CSE student
+- 🌱 I’m currently a second year CSE student pursuing B.Tech[CSE]
 - 💞️ I’m looking to collaborate on coding projects that will enhance my resume 
 - 📫 How to reach me mail me - aryan1234choudhari1983@gmail.com 
 
