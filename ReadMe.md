@@ -8,7 +8,9 @@
 ### 🏆 Hackathon & Ideathon Champion — *7x Winner!*
 
 Hi there, I'm **Aaryan Choudhari** 👋  
+
 Welcome to my GitHub! Here's a snapshot of my competitive achievements across some of the top tech events:
+
 ---
 #### 🏅 **Hackathon Achievements**
 
