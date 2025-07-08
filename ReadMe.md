@@ -1,21 +1,29 @@
 # 💫 About Me:
  👋 Hi, I’m @aaryan2720
 - 👀 I’m interested in Python,Automation,Communication,LLMs,AGI,Cybersecurity.
-- 🌱 I’m currently a second year CSE student pursuing B.Tech[CSE].
+- 🌱 I’m currently a Third year CSE student pursuing B.Tech[CSE].
 - 💞️ I’m looking to collaborate on coding projects that will enhance my resume. 
 - 📫 How to reach me mail me - aryan1234choudhari1983@gmail.com. 
 
-🏆 7x Hackathon + Ideathon Winner 🏆
-👋 Hi there, I'm Aaryan Choudhari
+### 🏆 Hackathon & Ideathon Champion — *7x Winner!*
 
-🏅 Hackathon Achievements:
-🥇 1st Prize - CIH 2.0 Nagpur
-🥉 3rd Prize - Ideathon 2.0 Mumbai
-🥈 2nd Prize - DIPEX 2025
-🥇 1st Prize - MKD Spark Nandurbar
-🥉 2nd Runner Up - Hack The Gap
-🥈 2nd Prize - WINGS 2025
-🥇 1st Prize - TechLegion
+Hi there, I'm **Aaryan Choudhari** 👋  
+Welcome to my GitHub! Here's a snapshot of my competitive achievements across some of the top tech events:
+---
+#### 🏅 **Hackathon Achievements**
+
+- 🥇 **1st Prize** – CIH 2.0, Nagpur  
+- 🥉 **3rd Prize** – Ideathon 2.0, Mumbai  
+- 🥈 **2nd Prize** – DIPEX 2025  
+- 🥇 **1st Prize** – MKD Spark, Nandurbar  
+- 🥉 **2nd Runner Up** – Hack The Gap  
+- 🥈 **2nd Prize** – WINGS 2025  
+- 🥇 **1st Prize** – TechLegion  
+
+---
+
+### 💡 Always Innovating. Always Winning.
+
 
 
 ## 🌐 Socials:
