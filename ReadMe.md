@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on coding projects that will enhance my resume. 
 - 📫 How to reach me mail me - aryan1234choudhari1983@gmail.com. 
 
-### 🏆 Hackathon & Ideathon Champion — *7x Winner!*
+### 🏆 Hackathon & Ideathon Champion — *8x Winner!*
 
 Hi there, I'm **Aaryan Choudhari** 👋  
 
@@ -21,6 +21,7 @@ Welcome to my GitHub! Here's a snapshot of my competitive achievements across so
 - 🥉 **2nd Runner Up** – Hack The Gap  
 - 🥈 **2nd Prize** – WINGS 2025  
 - 🥇 **1st Prize** – TechLegion  
+- 🥈 **2nd Prize** – I.D.E.A Hackathon 2025  
 
 ---
 
