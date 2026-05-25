@@ -5,7 +5,8 @@
 - 🤝 Open to collaborating on innovative software projects, open-source contributions, hackathons, and impactful tech solutions.  
 - 🏆 SIH 2025 Finalist | 13x Hackathon Winner | Vice Lead @ Coding Ninjas Campus Club | Multiple National-Level Tech Competition Winner  
 - 📫 Reach me at: **aryan1234choudhari1983@gmail.com**
-- 
+
+  
 ### 🏆 Hackathon & Ideathon Champion — *13x Winner!*
 
 Hi there, I'm **Aaryan Choudhari** 👋  
