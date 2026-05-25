@@ -1,11 +1,12 @@
 # 💫 About Me:
- 👋 Hi, I’m @aaryan2720
-- 👀 I’m interested in Python,Automation,Communication,LLMs,AGI,Cybersecurity.
-- 🌱 I’m currently a Third year CSE student pursuing B.Tech[CSE].
-- 💞️ I’m looking to collaborate on coding projects that will enhance my resume. 
-- 📫 How to reach me mail me - aryan1234choudhari1983@gmail.com. 
-
-### 🏆 Hackathon & Ideathon Champion — *10x Winner!*
+ 👋 Hi, I’m @aaryan2720  
+- 👀 Passionate about Software Engineering, Full-Stack Development, Java, Python, Automation, AI/LLMs, Cybersecurity, and building impactful real-world solutions.  
+- 🌱 Currently a Third-Year B.Tech Computer Science Engineering student, continuously exploring scalable systems, intelligent applications, and emerging technologies.  
+- 🤝 Open to collaborating on innovative software projects, open-source contributions, hackathons, and impactful tech solutions.  
+- 🏆 SIH 2025 Finalist | 13x Hackathon Winner | Vice Lead @ Coding Ninjas Campus Club | Multiple National-Level Tech Competition Winner  
+- 📫 Reach me at: **aryan1234choudhari1983@gmail.com**
+- 
+### 🏆 Hackathon & Ideathon Champion — *13x Winner!*
 
 Hi there, I'm **Aaryan Choudhari** 👋  
 
@@ -14,18 +15,17 @@ Welcome to my GitHub! Here's a snapshot of my competitive achievements across so
 ---
 #### 🏅 **Hackathon Achievements**
 
+- 🌟 **SIH Finalist** – Smart India Hackathon 2025
 - 🥇 **1st Prize** – CIH 2.0, Nagpur  
-- 🥉 **3rd Prize** – Ideation 2.0 ,Mumbai  
+- 🥉 **3rd Prize** – Ideation 2.0, Mumbai  
 - 🥈 **2nd Prize** – DIPEX 2025  
-- 🥇 **1st Prize** – MKD Spark, Nandurbar
-- 🥇 **1st Prize** – Zentrix{hack the gap 2.0}  
+- 🥇 **1st Prize** – MKD Spark, Nandurbar  
+- 🥇 **1st Prize** – Zentrix (Hack The Gap 2.0)  
 - 🥉 **2nd Runner Up** – Hack The Gap  
 - 🥈 **2nd Prize** – WINGS 2025  
 - 🥇 **1st Prize** – TechLegion  
-- 🥈 **2nd Prize** – I.D.E.A Hackathon 2025  
-
+- 🥈 **2nd Prize** – I.D.E.A Hackathon 2025   
 ---
-
 ### 💡 Always Innovating. Always Winning.
 
 
